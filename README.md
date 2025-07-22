@@ -1,5 +1,6 @@
-🧮 Calculadora en Python
-Una calculadora simple y eficiente desarrollada en Python que permite realizar operaciones matemáticas básicas y avanzadas a través de una interfaz de línea de comandos intuitiva.
+🧮 ## Calculadora en Python
+
+Una calculadora simple y eficiente desarrollada en Python que permite realizar operaciones matemáticas básicas y avanzadas a través de  de línea de comandos.
 ✨ Características
 
 ➕ Suma básica de dos números
@@ -46,23 +47,10 @@ Una vez que ejecutes el programa, verás un menú con las siguientes opciones:
 5. Suma Avanzada
 6. Salir
 Simplemente ingresa el número correspondiente a la operación que deseas realizar y sigue las instrucciones.
+
 🔧 Tecnologías Utilizadas
 
 Python 3.x - Lenguaje de programación principal
-Módulos nativos de Python - Sin dependencias externas
-
-🤝 Contribuciones
-Las contribuciones son bienvenidas. Si deseas contribuir:
-
-Fork el proyecto
-Crea una rama para tu feature (git checkout -b feature/AmazingFeature)
-Commit tus cambios (git commit -m 'Add some AmazingFeature')
-Push a la rama (git push origin feature/AmazingFeature)
-Abre un Pull Request
 
 📝 Licencia
 Este proyecto está bajo la licencia especificada en el archivo LICENSE.
-👨‍💻 Autor
-Eliud Sosa
-
-GitHub: @eliudsosa97

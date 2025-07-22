@@ -1,0 +1,27 @@
+# 🧮 Calculadora en Python
+
+Este es un proyecto de una calculadora simple hecha en Python. El menú principal permite al usuario realizar operaciones básicas como sumar, restar, multiplicar, dividir, y también hacer una suma avanzada de múltiples números.
+
+## 📁 Estructura del proyecto
+
+calculadora-hybridge/
+├── main.py
+├── sumar.py
+├── resta.py
+├── multiplicacion.py
+├── dividir.py
+├── suma_avanzada.py
+├── README.md
+├── LICENSE
+
+## ▶️ ¿Cómo ejecutar el programa?
+
+1. Asegúrate de tener **Python 3.x** instalado.
+2. Clona este repositorio:
+
+```bash
+git clone https://github.com/eliudsosa97/calculadora-hybridge
+cd calculadora-hybridge
+3. Ejecuta el archivo principal:
+python main.py
+```

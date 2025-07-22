@@ -11,16 +11,20 @@ Una calculadora simple y eficiente desarrollada en Python que permite realizar o
 🎯 Interfaz de menú interactiva
 ⚡ Código modular y bien estructurado
 
+---
+
 📁 Estructura del proyecto
-calculadora-hybridge/
-├── main.py              # Archivo principal con el menú
-├── sumar.py             # Módulo de suma básica
-├── resta.py             # Módulo de resta
-├── multiplicacion.py    # Módulo de multiplicación
-├── dividir.py           # Módulo de división
-├── suma_avanzada.py     # Módulo de suma avanzada
-├── README.md            # Documentación del proyecto
-└── LICENSE              # Licencia del proyecto
+
+- `main.py` - Archivo principal con el menú
+- `sumar.py` - Módulo de suma básica
+- `resta.py` - Módulo de resta
+- `multiplicacion.py` - Módulo de multiplicación
+- `dividir.py` - Módulo de división
+- `suma_avanzada.py` - Módulo de suma avanzada
+- `README.md` - Documentación del proyecto
+- `LICENSE` - Licencia del proyecto
+
+---
 🚀 Instalación y Ejecución
 Prerrequisitos
 
